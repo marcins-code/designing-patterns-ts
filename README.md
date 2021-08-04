@@ -1,0 +1,1 @@
+## Designing patterns with Typescript
