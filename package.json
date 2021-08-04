@@ -1,0 +1,23 @@
+{
+  "name": "designing-patterns-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcins-code/designing-patterns-ts.git"
+  },
+  "author": "Marcin Paczkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcins-code/designing-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/marcins-code/designing-patterns-ts#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.5"
+  }
+}
